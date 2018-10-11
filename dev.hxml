@@ -1,0 +1,4 @@
+-lib pick.first
+-lib travix
+tests.hxml
+--interp
